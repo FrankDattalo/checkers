@@ -1,0 +1,12 @@
+- progress logging for when display is turned off
+
+- Ghost Player (Record + Recall)
+
+- REINFORCE
+- Actor Critic
+
+- QLearning
+
+- Alpha Beta
+
+- ML Based Tree Search
